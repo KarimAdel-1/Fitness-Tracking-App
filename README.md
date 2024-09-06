@@ -23,7 +23,7 @@ Welcome to the **Fitness Tracking Application**! This app helps users log workou
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Fitness-App.git
+   git clone https://github.com/KarimAdel-1/Fitness-App.git
    ```
 2. Navigate to the project directory:
    ```bash
